@@ -1,2 +1,2 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilwe28&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=true&theme=tokyonight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tilwe28&repo=Top-Down-Space-Shooter)](https://github.com/tilwe28/Top-Down-Space-Shooter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tilwe28&repo=Top-Down-Space-Shooter)](https://github.com/tilwe28/Top-Down-Space-Shooter&theme=tokyonight)
