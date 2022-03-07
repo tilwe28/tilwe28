@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilwe28&count_private=true&hide=contribs,issues&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilwe28&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=true&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tilwe28&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
