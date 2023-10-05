@@ -48,5 +48,5 @@
 <br/>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilwe28&exclude_repo=Top-Down-Space-Shooter,ListViewProject,GPSPermissions,21st-Century-Comp-Sci,AP-Comp-Sci,LM_CodeQuest_Practice,WeatherProject,TextMessageBot,Data-Structures&hide=Makefile&layout=compact&theme=tokyonight" alt="tilwe28" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tilwe28&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=true&theme=tokyonight&locale=en" alt="tilwe28" /></div>
+<img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilwe28&exclude_repo=Top-Down-Space-Shooter,ListViewProject,GPSPermissions,21st-Century-Comp-Sci,AP-Comp-Sci,LM_CodeQuest_Practice,WeatherProject,TextMessageBot,Data-Structures&hide=Makefile&layout=compact&theme=tokyonight" alt="tilwe28" />
+<img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=tilwe28&count_private=true&hide=contribs,issues&show_icons=true&include_all_commits=true&theme=tokyonight&locale=en" alt="tilwe28" /></div>
