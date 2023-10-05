@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/anuragtilwe" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-apple-mail-493152.png?f=webp" alt="anuragtilwe" height="40" width="40" /></a>
+<a href="mailto: tilwe@umich.edu" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-apple-mail-493152.png?f=webp" alt="anuragtilwe" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/anuragtilwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragtilwe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tilwe28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tilwe28" height="30" width="40" /></a>
 </p>
